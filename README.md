@@ -10,3 +10,7 @@ This is first phase of the course.
 In the above document the answers for the questions in the course are available.
 
 https://www.coursera.org/learn/wharton-customer-analytics/home/welcome
+
+#Answers at:
+
+https://github.com/princetvarun/Customer-Analytics/blob/master/Answers
