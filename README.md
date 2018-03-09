@@ -1,6 +1,6 @@
 # Customer-Analytics
 
-Coursera - https://www.coursera.org/learn/wharton-customer-analytics/home/welcome
+Coursera - https://www.coursera.org/learn/wharton-customer-analytics
 
 This is a Coursera course on Customer analytics.
 You can get best score as much as possible.
